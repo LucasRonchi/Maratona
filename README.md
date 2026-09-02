@@ -1,2 +1,35 @@
-# Maratona
-ECOX21 - Maratona de programação
+# ECOX21 - Maratona de programação
+
+## Aula 01 - tarefa
+- [x] 1015 (nivel: 1)
+- [x] 1017 (nivel: 1)
+- [x] 1021 (nivel: 6)
+- [x] 1046 (nivel: 2)
+- [x] 1087 (nivel: 4)
+- [x] 1091 (nivel: 1)
+- [ ] 1140 (nivel: 4)
+- [x] 1144 (nivel: 1)
+- [x] 1161 (nivel: 5)
+- [ ] 1163 (nivel: 7)
+- [ ] 1318 (nivel: 3)
+- [ ] 1367 (nivel: 3)
+- [ ] 1410 (nivel: 3)
+- [x] 1581 (nivel: 2)
+- [x] 3106 (nivel: 2)
+
+## Aula 03 - tarefa:
+- [ ] 1024 (nivel: 5)
+- [ ] 1026 (nivel: 5)
+- [ ] 1030 (nivel: 4)
+- [ ] 1105 (nivel: 5)
+- [ ] 1142 (nivel: 1)
+- [ ] 1164 (nivel: 2)
+- [ ] 1168 (nivel: 3)
+- [ ] 1192 (nivel: 2)
+- [ ] 1241 (nivel: 2)
+- [ ] 1257 (nivel: 3)
+- [ ] 1457 (nivel: 1)
+- [ ] 1985 (nivel: 1)
+- [ ] 2845 (nivel: 3)
+- [ ] 3068 (nivel: 5)
+- [ ] 3301 (nivel: 1)
