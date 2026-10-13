@@ -94,7 +94,7 @@
 - [x] 2424 (nivel: 1)
 - [x] 2460 (nivel: 5)
 - [x] 2653 (nivel: 2)
-- [ ] 1022 (nivel: 4)
+- [x] 1022 (nivel: 4)
 - [x] 1873 (nivel: 2)
 - [x] 1943 (nivel: 1)
 - [x] 2374 (nivel: 1)
