@@ -89,7 +89,7 @@
 - [x] 1221 (nivel: 6)
 - [x] 1244 (nivel: 4)
 - [x] 1267 (nivel: 3)
-- [ ] 2253 (nivel: 5)
+- [x] 2253 (nivel: 5)
 - [ ] 2294 (nivel: 4)
 - [x] 2424 (nivel: 1)
 - [x] 2460 (nivel: 5)
